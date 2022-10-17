@@ -75,7 +75,7 @@ class MobileScannerController {
         // onCancel: () => setAnalyzeMode(AnalyzeMode.none.index),
         );
 
-    start();
+    // start();
 
     // Listen to events from the platform specific code
     events = eventChannel
